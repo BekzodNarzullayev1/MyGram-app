@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "400756672499",
+    "firebase_url": "https://new-gram-a99bf-default-rtdb.firebaseio.com",
+    "project_id": "new-gram-a99bf",
+    "storage_bucket": "new-gram-a99bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400756672499:android:44f7b443182f3b880c3486",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghNneIq0JtvamAEhzQ4lGDft6C0tYVlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400756672499:android:a14af65ed4a37fe30c3486",
+        "android_client_info": {
+          "package_name": "com.example.mygram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghNneIq0JtvamAEhzQ4lGDft6C0tYVlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400756672499:android:7e01a01d0a712c830c3486",
+        "android_client_info": {
+          "package_name": "com.example.pdpgramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400756672499-mi10ihbj6mh2m6acn80di47dq0utefc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdpgramapp",
+            "certificate_hash": "d53dec9458233ec7a577ec841601b1b1e60f45ad"
+          }
+        },
+        {
+          "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghNneIq0JtvamAEhzQ4lGDft6C0tYVlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400756672499-24lrjgi77q3a4qc83m8f2nkkn4973ugf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
